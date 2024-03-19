@@ -1,0 +1,33 @@
+ body
+{
+    background-color:blanchedalmond;
+    margin-top: 30px;
+    font-family: Arial; 
+
+ }
+
+ #taskInput
+ {
+    margin:20px;
+    height:50px;
+    width:130px;
+ }
+.head
+{
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+}
+.click
+{
+    background-color:grey;
+    height: 40px;
+    width: 80px;
+}
+
+._button
+{
+    margin:8px;
+    padding: 8px 10px;
+}
+
